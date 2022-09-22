@@ -1,0 +1,15 @@
+/Users/oleg/Desktop/GB/C#/GB_C_Sharp/test/double_array/obj/Debug/net6.0/double_array.csproj.AssemblyReference.cache
+/Users/oleg/Desktop/GB/C#/GB_C_Sharp/test/double_array/obj/Debug/net6.0/double_array.GeneratedMSBuildEditorConfig.editorconfig
+/Users/oleg/Desktop/GB/C#/GB_C_Sharp/test/double_array/obj/Debug/net6.0/double_array.AssemblyInfoInputs.cache
+/Users/oleg/Desktop/GB/C#/GB_C_Sharp/test/double_array/obj/Debug/net6.0/double_array.AssemblyInfo.cs
+/Users/oleg/Desktop/GB/C#/GB_C_Sharp/test/double_array/obj/Debug/net6.0/double_array.csproj.CoreCompileInputs.cache
+/Users/oleg/Desktop/GB/C#/GB_C_Sharp/test/double_array/bin/Debug/net6.0/double_array
+/Users/oleg/Desktop/GB/C#/GB_C_Sharp/test/double_array/bin/Debug/net6.0/double_array.deps.json
+/Users/oleg/Desktop/GB/C#/GB_C_Sharp/test/double_array/bin/Debug/net6.0/double_array.runtimeconfig.json
+/Users/oleg/Desktop/GB/C#/GB_C_Sharp/test/double_array/bin/Debug/net6.0/double_array.dll
+/Users/oleg/Desktop/GB/C#/GB_C_Sharp/test/double_array/bin/Debug/net6.0/double_array.pdb
+/Users/oleg/Desktop/GB/C#/GB_C_Sharp/test/double_array/obj/Debug/net6.0/double_array.dll
+/Users/oleg/Desktop/GB/C#/GB_C_Sharp/test/double_array/obj/Debug/net6.0/refint/double_array.dll
+/Users/oleg/Desktop/GB/C#/GB_C_Sharp/test/double_array/obj/Debug/net6.0/double_array.pdb
+/Users/oleg/Desktop/GB/C#/GB_C_Sharp/test/double_array/obj/Debug/net6.0/double_array.genruntimeconfig.cache
+/Users/oleg/Desktop/GB/C#/GB_C_Sharp/test/double_array/obj/Debug/net6.0/ref/double_array.dll

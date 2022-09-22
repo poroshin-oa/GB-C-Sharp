@@ -1,0 +1,15 @@
+/Users/oleg/Desktop/GB/C#/GB_C_Sharp/test/recursion/bin/Debug/net6.0/recursion
+/Users/oleg/Desktop/GB/C#/GB_C_Sharp/test/recursion/bin/Debug/net6.0/recursion.deps.json
+/Users/oleg/Desktop/GB/C#/GB_C_Sharp/test/recursion/bin/Debug/net6.0/recursion.runtimeconfig.json
+/Users/oleg/Desktop/GB/C#/GB_C_Sharp/test/recursion/bin/Debug/net6.0/recursion.dll
+/Users/oleg/Desktop/GB/C#/GB_C_Sharp/test/recursion/bin/Debug/net6.0/recursion.pdb
+/Users/oleg/Desktop/GB/C#/GB_C_Sharp/test/recursion/obj/Debug/net6.0/recursion.csproj.AssemblyReference.cache
+/Users/oleg/Desktop/GB/C#/GB_C_Sharp/test/recursion/obj/Debug/net6.0/recursion.GeneratedMSBuildEditorConfig.editorconfig
+/Users/oleg/Desktop/GB/C#/GB_C_Sharp/test/recursion/obj/Debug/net6.0/recursion.AssemblyInfoInputs.cache
+/Users/oleg/Desktop/GB/C#/GB_C_Sharp/test/recursion/obj/Debug/net6.0/recursion.AssemblyInfo.cs
+/Users/oleg/Desktop/GB/C#/GB_C_Sharp/test/recursion/obj/Debug/net6.0/recursion.csproj.CoreCompileInputs.cache
+/Users/oleg/Desktop/GB/C#/GB_C_Sharp/test/recursion/obj/Debug/net6.0/recursion.dll
+/Users/oleg/Desktop/GB/C#/GB_C_Sharp/test/recursion/obj/Debug/net6.0/refint/recursion.dll
+/Users/oleg/Desktop/GB/C#/GB_C_Sharp/test/recursion/obj/Debug/net6.0/recursion.pdb
+/Users/oleg/Desktop/GB/C#/GB_C_Sharp/test/recursion/obj/Debug/net6.0/recursion.genruntimeconfig.cache
+/Users/oleg/Desktop/GB/C#/GB_C_Sharp/test/recursion/obj/Debug/net6.0/ref/recursion.dll

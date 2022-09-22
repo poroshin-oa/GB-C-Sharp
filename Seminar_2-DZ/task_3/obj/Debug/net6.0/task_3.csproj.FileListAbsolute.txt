@@ -1,0 +1,15 @@
+/Users/oleg/Desktop/GB/C#/GB_C_Sharp/Seminar_2-DZ/task_3/bin/Debug/net6.0/task_3
+/Users/oleg/Desktop/GB/C#/GB_C_Sharp/Seminar_2-DZ/task_3/bin/Debug/net6.0/task_3.deps.json
+/Users/oleg/Desktop/GB/C#/GB_C_Sharp/Seminar_2-DZ/task_3/bin/Debug/net6.0/task_3.runtimeconfig.json
+/Users/oleg/Desktop/GB/C#/GB_C_Sharp/Seminar_2-DZ/task_3/bin/Debug/net6.0/task_3.dll
+/Users/oleg/Desktop/GB/C#/GB_C_Sharp/Seminar_2-DZ/task_3/bin/Debug/net6.0/task_3.pdb
+/Users/oleg/Desktop/GB/C#/GB_C_Sharp/Seminar_2-DZ/task_3/obj/Debug/net6.0/task_3.csproj.AssemblyReference.cache
+/Users/oleg/Desktop/GB/C#/GB_C_Sharp/Seminar_2-DZ/task_3/obj/Debug/net6.0/task_3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/oleg/Desktop/GB/C#/GB_C_Sharp/Seminar_2-DZ/task_3/obj/Debug/net6.0/task_3.AssemblyInfoInputs.cache
+/Users/oleg/Desktop/GB/C#/GB_C_Sharp/Seminar_2-DZ/task_3/obj/Debug/net6.0/task_3.AssemblyInfo.cs
+/Users/oleg/Desktop/GB/C#/GB_C_Sharp/Seminar_2-DZ/task_3/obj/Debug/net6.0/task_3.csproj.CoreCompileInputs.cache
+/Users/oleg/Desktop/GB/C#/GB_C_Sharp/Seminar_2-DZ/task_3/obj/Debug/net6.0/task_3.dll
+/Users/oleg/Desktop/GB/C#/GB_C_Sharp/Seminar_2-DZ/task_3/obj/Debug/net6.0/refint/task_3.dll
+/Users/oleg/Desktop/GB/C#/GB_C_Sharp/Seminar_2-DZ/task_3/obj/Debug/net6.0/task_3.pdb
+/Users/oleg/Desktop/GB/C#/GB_C_Sharp/Seminar_2-DZ/task_3/obj/Debug/net6.0/task_3.genruntimeconfig.cache
+/Users/oleg/Desktop/GB/C#/GB_C_Sharp/Seminar_2-DZ/task_3/obj/Debug/net6.0/ref/task_3.dll
