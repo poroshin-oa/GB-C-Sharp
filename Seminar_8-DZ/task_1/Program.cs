@@ -23,7 +23,26 @@ int[,] FillArray(int[,] matrix){
     return matrix;
 }
 
-int[,] table = new int[4,5];
+// Построчная сортировка
+int[,] SortLine(int[,] input_array){
+    for (int i = 0; i < input_array.GetLength(0); i++){
+        for (int j = 0; j < input_array.GetLength(1); j++){
+            for (int k = 0; k < input_array.GetLength(1) - 1; k++){
+                if (input_array[i, k] < input_array[i, k + 1]){
+                    int temp = input_array[i, k + 1];
+                    input_array[i, k + 1] = input_array[i, k];
+                    input_array[i, k] = temp;
+                }
+            }
+        }
+    }
 
+    return input_array;
+}
+
+int[,] table = new int[4,5];
+Console.WriteLine("Исходный массив");
 PrintArray(FillArray(table));
 
+Console.WriteLine("\nОтсортированный массив");
+PrintArray(SortLine(table));
