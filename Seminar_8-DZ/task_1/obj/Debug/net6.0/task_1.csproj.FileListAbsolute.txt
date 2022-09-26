@@ -1,0 +1,15 @@
+/Users/oleg/Desktop/GB/C-Sharp/GB_C_Sharp/Seminar_8-DZ/task_1/bin/Debug/net6.0/task_1
+/Users/oleg/Desktop/GB/C-Sharp/GB_C_Sharp/Seminar_8-DZ/task_1/bin/Debug/net6.0/task_1.deps.json
+/Users/oleg/Desktop/GB/C-Sharp/GB_C_Sharp/Seminar_8-DZ/task_1/bin/Debug/net6.0/task_1.runtimeconfig.json
+/Users/oleg/Desktop/GB/C-Sharp/GB_C_Sharp/Seminar_8-DZ/task_1/bin/Debug/net6.0/task_1.dll
+/Users/oleg/Desktop/GB/C-Sharp/GB_C_Sharp/Seminar_8-DZ/task_1/bin/Debug/net6.0/task_1.pdb
+/Users/oleg/Desktop/GB/C-Sharp/GB_C_Sharp/Seminar_8-DZ/task_1/obj/Debug/net6.0/task_1.csproj.AssemblyReference.cache
+/Users/oleg/Desktop/GB/C-Sharp/GB_C_Sharp/Seminar_8-DZ/task_1/obj/Debug/net6.0/task_1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/oleg/Desktop/GB/C-Sharp/GB_C_Sharp/Seminar_8-DZ/task_1/obj/Debug/net6.0/task_1.AssemblyInfoInputs.cache
+/Users/oleg/Desktop/GB/C-Sharp/GB_C_Sharp/Seminar_8-DZ/task_1/obj/Debug/net6.0/task_1.AssemblyInfo.cs
+/Users/oleg/Desktop/GB/C-Sharp/GB_C_Sharp/Seminar_8-DZ/task_1/obj/Debug/net6.0/task_1.csproj.CoreCompileInputs.cache
+/Users/oleg/Desktop/GB/C-Sharp/GB_C_Sharp/Seminar_8-DZ/task_1/obj/Debug/net6.0/task_1.dll
+/Users/oleg/Desktop/GB/C-Sharp/GB_C_Sharp/Seminar_8-DZ/task_1/obj/Debug/net6.0/refint/task_1.dll
+/Users/oleg/Desktop/GB/C-Sharp/GB_C_Sharp/Seminar_8-DZ/task_1/obj/Debug/net6.0/task_1.pdb
+/Users/oleg/Desktop/GB/C-Sharp/GB_C_Sharp/Seminar_8-DZ/task_1/obj/Debug/net6.0/task_1.genruntimeconfig.cache
+/Users/oleg/Desktop/GB/C-Sharp/GB_C_Sharp/Seminar_8-DZ/task_1/obj/Debug/net6.0/ref/task_1.dll
